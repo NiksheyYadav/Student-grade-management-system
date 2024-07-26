@@ -1,6 +1,6 @@
 # Student-grade-management-system
 
-```
+
 # 👨‍🎓 Student Grade Management System 📊
 
 This C program is designed to manage student records, calculate average marks, and assign grades based on a predefined grading scale. It's suitable for educational institutions like schools and colleges.
@@ -26,7 +26,7 @@ This C program is designed to manage student records, calculate average marks, a
 ---
 
 ## 🏆 Grading Scale
-
+```
 | Average Marks | Grade |
 |---------------|:---:|
 | 95-100  | A1   |
@@ -41,6 +41,7 @@ This C program is designed to manage student records, calculate average marks, a
 | Below 50 | E    |
 
 ---
+```
 ## 🚀 How to Use
 
 1. **Compilation:**  
